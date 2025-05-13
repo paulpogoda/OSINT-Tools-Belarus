@@ -37,6 +37,8 @@ Fell free to join the project — [OSINT For Countries V2.0](https://github.com/
 - [RailwayzInfo](https://railwayz.info/photolines/rw/13) - maps of railway tracks with staions's photos
 
 ## Vehicles
+- [Avtogarant](https://avtogarant.by/proverka-istorii-avto/). Paid, licence plate check available
+- [Avtoteka](https://autoteka.ru). Paid, VIN-check. Russian service, but works with some Belarussian data
 - [Car VIN Check](https://ka.by/list)
 - [Customs VIN Check](https://www.customs.gov.by/baza-dannykh-vvezyennogo-avtotransporta/)
 
