@@ -1,5 +1,5 @@
 # OSINT-Tools-Belarus
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Belarus_%281918%2C_1991%E2%80%931995%29.svg/1024px-Flag_of_Belarus_%281918%2C_1991%E2%80%931995%29.svg.png" alt="Belarus"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg" alt="Belarus"/>
 A list of OSINT resources and tools that may be useful to you when conducting investigations related to the Republic of Belarus
 
 ## Contributions
@@ -30,6 +30,7 @@ Fell free to join the project — [OSINT For Countries V2.0](https://github.com/
 ## Legal Entities
 - [Official Taxpayer and Legal Entities Search](https://nalog.gov.by/reference/businnes_partners/)
 - [Counterparty Check](https://etalonline.by/) - registration and belarusian phone number (+375) required, paid only.
+- [Tesari First Resort](https://tesari.ai/) — Tesari is an all-source intelligence platform designed for high-stakes environments, with applications ranging from trade compliance and supply chain illumination to financial crime investigations and complex litigation. It is a paid platform that offers a Tech for Good (Community Impact) Programme for OSINT practitioners and journalists. *Lang: EN.*
 
 ## Maps
 - [State Urban Cadastre Map](https://map.nca.by)
